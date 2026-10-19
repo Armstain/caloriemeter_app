@@ -6,6 +6,7 @@ import 'dart:convert';
 import 'package:path/path.dart' as p;
 import 'package:sqflite/sqflite.dart';
 import '../data/models.dart';
+import 'workout_db.dart';
 
 class AppDb {
   static Database? _db;
@@ -15,7 +16,7 @@ class AppDb {
     final dir = await getDatabasesPath();
     _db = await openDatabase(
       p.join(dir, 'caloriemeter.db'),
-      version: 1,
+      version: 2,
       onCreate: (db, _) async {
         await db.execute('''
           CREATE TABLE entries(
@@ -56,6 +57,12 @@ class AppDb {
             original_json TEXT NOT NULL,
             corrected_json TEXT NOT NULL
           )''');
+        await WorkoutDb.createTables(db);
+      },
+      onUpgrade: (db, oldVersion, _) async {
+        if (oldVersion < 2) {
+          await WorkoutDb.createTables(db);
+        }
       },
     );
     return _db!;

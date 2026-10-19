@@ -174,5 +174,32 @@
     "yesterday": "Repeat yesterday",
     "copied": "Copied to today",
     "nothingToCopy": "Nothing logged yesterday"
+  },
+  "workout": {
+    "title": "Workout",
+    "start": "Start workout",
+    "pickRoutine": "Pick a routine",
+    "routines": "Routines",
+    "recent": "Recent sessions",
+    "exercises": "exercises",
+    "thisWeek": "Sessions",
+    "volume": "Volume",
+    "finish": "Finish workout",
+    "target": "Target",
+    "reps": "reps",
+    "addSet": "Add set",
+    "restTimer": "Rest timer",
+    "startRest": "Start",
+    "noSets": "Log at least one set first",
+    "done": "Workout complete",
+    "duration": "Duration",
+    "min": "min",
+    "setsDone": "Sets",
+    "newPRs": "New PRs",
+    "plateCalc": "Plate calculator",
+    "targetWeight": "Target weight",
+    "perSide": "Load per side",
+    "loaded": "Total loaded",
+    "justTheBar": "Just the bar — no plates needed."
   }
 }

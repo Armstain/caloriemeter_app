@@ -13,6 +13,7 @@ import 'tracker.dart';
 import 'history.dart';
 import 'guide.dart';
 import 'settings.dart';
+import 'workout_screen.dart';
 
 class CaloriemeterApp extends ConsumerStatefulWidget {
   final Settings settings;
@@ -90,6 +91,7 @@ class MainShell extends ConsumerWidget {
     final lang = Lang.of(context);
     final screens = [
       const CaptureScreen(),
+      const WorkoutScreen(),
       const TrackerScreen(),
       const HistoryScreen(),
       const GuideScreen(),
@@ -105,6 +107,10 @@ class MainShell extends ConsumerWidget {
               icon: const Icon(Icons.camera_alt_outlined),
               selectedIcon: const Icon(Icons.camera_alt),
               label: lang.t('home.capture')),
+          NavigationDestination(
+              icon: const Icon(Icons.fitness_center_outlined),
+              selectedIcon: const Icon(Icons.fitness_center),
+              label: lang.t('workout.title')),
           NavigationDestination(
               icon: const Icon(Icons.book_outlined),
               selectedIcon: const Icon(Icons.book),
