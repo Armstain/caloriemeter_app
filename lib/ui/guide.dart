@@ -7,6 +7,7 @@ import '../core/lang.dart';
 import '../data/app_db.dart';
 import '../data/prices.dart';
 import '../state/providers.dart';
+import 'planner_screen.dart';
 
 class GuideScreen extends ConsumerWidget {
   const GuideScreen({super.key});
@@ -34,6 +35,17 @@ class GuideScreen extends ConsumerWidget {
               Text(
                   '${lang.t('guide.pricesFrom')} ${data.reportDate} (DHAKA)',
                   style: Theme.of(context).textTheme.bodySmall),
+              const SizedBox(height: 12),
+              SizedBox(
+                width: double.infinity,
+                child: ElevatedButton.icon(
+                  icon: const Icon(Icons.calculate_outlined),
+                  label: Text(lang.t('planner.title')),
+                  onPressed: () => Navigator.of(context).push(MaterialPageRoute(
+                    builder: (_) => const PlannerScreen(),
+                  )),
+                ),
+              ),
               const SizedBox(height: 12),
               ...guide.asMap().entries.map((e) => _GuideTile(
                     rank: e.key + 1,
