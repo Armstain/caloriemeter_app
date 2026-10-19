@@ -1,0 +1,5090 @@
+[
+ {
+  "id": "fctb_06_0006",
+  "name_en": "Coconut, mature kernel",
+  "name_bn": "Narikel",
+  "category": "nut",
+  "aliases": [
+   "Narikel"
+  ],
+  "kcal100": 389,
+  "protein100": 3.3,
+  "carbs100": 6.9,
+  "fat100": 36.7,
+  "fiber100": 9.2,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_06_0007",
+  "name_en": "Groundnuts/Peanut, raw",
+  "name_bn": "চিনাবাদাম",
+  "category": "nut",
+  "aliases": [
+   "China badam"
+  ],
+  "kcal100": 585,
+  "protein100": 22.5,
+  "carbs100": 14.8,
+  "fat100": 46.6,
+  "fiber100": 8.5,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_06_0008",
+  "name_en": "Jackfruit seeds, raw",
+  "name_bn": "Kathal er bichi",
+  "category": "nut",
+  "aliases": [
+   "Kathal er bichi"
+  ],
+  "kcal100": 151,
+  "protein100": 5.6,
+  "carbs100": 30.4,
+  "fat100": 0.4,
+  "fiber100": 1.5,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_06_0009",
+  "name_en": "Linseed, raw",
+  "name_bn": "Tisi",
+  "category": "nut",
+  "aliases": [
+   "Tisi"
+  ],
+  "kcal100": 500,
+  "protein100": 17.2,
+  "carbs100": 6.1,
+  "fat100": 39.1,
+  "fiber100": 27.3,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_06_0010",
+  "name_en": "Lotus seeds, dried",
+  "name_bn": "Poddo gota, shukna",
+  "category": "nut",
+  "aliases": [
+   "Poddo gota, shukna"
+  ],
+  "kcal100": 339,
+  "protein100": 16.3,
+  "carbs100": 61.6,
+  "fat100": 2.2,
+  "fiber100": 4.1,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_06_0011",
+  "name_en": "Lotus seeds, green",
+  "name_bn": "Poddo gota, kancha",
+  "category": "nut",
+  "aliases": [
+   "Poddo gota, kancha"
+  ],
+  "kcal100": 74,
+  "protein100": 4.1,
+  "carbs100": 12.5,
+  "fat100": 0.6,
+  "fiber100": 0.9,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_06_0012",
+  "name_en": "Mustard seeds, dried",
+  "name_bn": "Sarisha",
+  "category": "nut",
+  "aliases": [
+   "Sarisha"
+  ],
+  "kcal100": 501,
+  "protein100": 22.0,
+  "carbs100": 18.5,
+  "fat100": 35.0,
+  "fiber100": 11.8,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_06_0013",
+  "name_en": "Pistachio nuts, dried",
+  "name_bn": "Pesta",
+  "category": "nut",
+  "aliases": [
+   "Pesta"
+  ],
+  "kcal100": 574,
+  "protein100": 19.2,
+  "carbs100": 18.2,
+  "fat100": 44.9,
+  "fiber100": 10.3,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_06_0014",
+  "name_en": "Pumpkin seeds, dried",
+  "name_bn": "Mistikumrar bichi",
+  "category": "nut",
+  "aliases": [
+   "Mistikumrar bichi"
+  ],
+  "kcal100": 580,
+  "protein100": 25.1,
+  "carbs100": 10.6,
+  "fat100": 47.3,
+  "fiber100": 6.0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_06_0015",
+  "name_en": "Sesame seeds, whole, dried",
+  "name_bn": "Til",
+  "category": "nut",
+  "aliases": [
+   "Til"
+  ],
+  "kcal100": 563,
+  "protein100": 17.7,
+  "carbs100": 14.3,
+  "fat100": 45.8,
+  "fiber100": 11.7,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_06_0016",
+  "name_en": "Walnuts",
+  "name_bn": "Akhrot",
+  "category": "nut",
+  "aliases": [
+   "Akhrot"
+  ],
+  "kcal100": 684,
+  "protein100": 15.2,
+  "carbs100": 7.3,
+  "fat100": 64.5,
+  "fiber100": 6.7,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0001",
+  "name_en": "Bay leaf, dried",
+  "name_bn": "Tejpata",
+  "category": "spice",
+  "aliases": [
+   "Tejpata"
+  ],
+  "kcal100": 353,
+  "protein100": 7.6,
+  "carbs100": 48.7,
+  "fat100": 8.4,
+  "fiber100": 26.3,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0002",
+  "name_en": "Cardamom",
+  "name_bn": "Elach",
+  "category": "spice",
+  "aliases": [
+   "Elach"
+  ],
+  "kcal100": 261,
+  "protein100": 10.2,
+  "carbs100": 37.8,
+  "fat100": 2.2,
+  "fiber100": 24.4,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0003",
+  "name_en": "Chilli, red, dry",
+  "name_bn": "Shukna morich",
+  "category": "spice",
+  "aliases": [
+   "Shukna morich"
+  ],
+  "kcal100": 313,
+  "protein100": 15.9,
+  "carbs100": 35.2,
+  "fat100": 6.2,
+  "fiber100": 26.6,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0004",
+  "name_en": "Cinnamon, ground",
+  "name_bn": "Darchini gura",
+  "category": "spice",
+  "aliases": [
+   "Darchini gura"
+  ],
+  "kcal100": 243,
+  "protein100": 4.0,
+  "carbs100": 27.5,
+  "fat100": 1.2,
+  "fiber100": 53.1,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0005",
+  "name_en": "Cloves, dried",
+  "name_bn": "Labongo",
+  "category": "spice",
+  "aliases": [
+   "Labongo"
+  ],
+  "kcal100": 267,
+  "protein100": 5.2,
+  "carbs100": 27.4,
+  "fat100": 8.9,
+  "fiber100": 28.1,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0006",
+  "name_en": "Coriander leaves, raw",
+  "name_bn": "Dhone pata",
+  "category": "spice",
+  "aliases": [
+   "Dhone pata"
+  ],
+  "kcal100": 30,
+  "protein100": 3.3,
+  "carbs100": 0.1,
+  "fat100": 0.5,
+  "fiber100": 5.9,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0007",
+  "name_en": "Coriander seed, dry",
+  "name_bn": "Dhonia",
+  "category": "spice",
+  "aliases": [
+   "Dhonia"
+  ],
+  "kcal100": 336,
+  "protein100": 14.1,
+  "carbs100": 13.4,
+  "fat100": 16.1,
+  "fiber100": 40.8,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0008",
+  "name_en": "Cumin seeds",
+  "name_bn": "Jira",
+  "category": "spice",
+  "aliases": [
+   "Jira"
+  ],
+  "kcal100": 402,
+  "protein100": 18.3,
+  "carbs100": 37.2,
+  "fat100": 17.6,
+  "fiber100": 10.5,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0009",
+  "name_en": "Fennel seeds",
+  "name_bn": "Mauri",
+  "category": "spice",
+  "aliases": [
+   "Mauri"
+  ],
+  "kcal100": 329,
+  "protein100": 15.8,
+  "carbs100": 13.0,
+  "fat100": 14.9,
+  "fiber100": 39.8,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0010",
+  "name_en": "Fenugreek seeds",
+  "name_bn": "Methi",
+  "category": "spice",
+  "aliases": [
+   "Methi"
+  ],
+  "kcal100": 330,
+  "protein100": 21.8,
+  "carbs100": 32.8,
+  "fat100": 6.9,
+  "fiber100": 24.6,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0011",
+  "name_en": "Ginger root, raw",
+  "name_bn": "Ada",
+  "category": "spice",
+  "aliases": [
+   "Ada"
+  ],
+  "kcal100": 72,
+  "protein100": 1.9,
+  "carbs100": 13.3,
+  "fat100": 0.8,
+  "fiber100": 2.0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0012",
+  "name_en": "Indian pennywort, raw",
+  "name_bn": "Thankuni pata",
+  "category": "spice",
+  "aliases": [
+   "Thankuni pata"
+  ],
+  "kcal100": 37,
+  "protein100": 2.3,
+  "carbs100": 1.6,
+  "fat100": 0.5,
+  "fiber100": 8.7,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0013",
+  "name_en": "Lemon grass, raw",
+  "name_bn": "Lemon ghas",
+  "category": "spice",
+  "aliases": [
+   "Lemon ghas"
+  ],
+  "kcal100": 116,
+  "protein100": 1.4,
+  "carbs100": 25.5,
+  "fat100": 0.9,
+  "fiber100": 2.0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0014",
+  "name_en": "Lemon peel, raw",
+  "name_bn": "Lebur khosa",
+  "category": "spice",
+  "aliases": [
+   "Lebur khosa"
+  ],
+  "kcal100": 65,
+  "protein100": 1.6,
+  "carbs100": 8.7,
+  "fat100": 0.4,
+  "fiber100": 10.6,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0015",
+  "name_en": "Mace, ground",
+  "name_bn": "Jayitri, gura",
+  "category": "spice",
+  "aliases": [
+   "Jayitri, gura"
+  ],
+  "kcal100": 415,
+  "protein100": 6.5,
+  "carbs100": 33.1,
+  "fat100": 24.4,
+  "fiber100": 18.5,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0016",
+  "name_en": "Nutmeg, dried",
+  "name_bn": "Jayfol",
+  "category": "spice",
+  "aliases": [
+   "Jayfol"
+  ],
+  "kcal100": 480,
+  "protein100": 7.5,
+  "carbs100": 21.1,
+  "fat100": 36.4,
+  "fiber100": 19.0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0017",
+  "name_en": "Pepper, black",
+  "name_bn": "Golmorich",
+  "category": "spice",
+  "aliases": [
+   "Golmorich"
+  ],
+  "kcal100": 302,
+  "protein100": 11.8,
+  "carbs100": 43.5,
+  "fat100": 3.3,
+  "fiber100": 25.3,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0018",
+  "name_en": "Poppy seeds",
+  "name_bn": "Posto dana",
+  "category": "spice",
+  "aliases": [
+   "Posto dana"
+  ],
+  "kcal100": 523,
+  "protein100": 17.2,
+  "carbs100": 6.8,
+  "fat100": 43.1,
+  "fiber100": 19.5,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0019",
+  "name_en": "Spearmint leaves, fresh",
+  "name_bn": "Pudina pata",
+  "category": "spice",
+  "aliases": [
+   "Pudina pata"
+  ],
+  "kcal100": 35,
+  "protein100": 3.0,
+  "carbs100": 0.6,
+  "fat100": 0.7,
+  "fiber100": 6.9,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_07_0020",
+  "name_en": "Turmeric, dried",
+  "name_bn": "Holud",
+  "category": "spice",
+  "aliases": [
+   "Holud"
+  ],
+  "kcal100": 335,
+  "protein100": 6.9,
+  "carbs100": 47.3,
+  "fat100": 8.4,
+  "fiber100": 21.1,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 5,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0001",
+  "name_en": "Anchovy, Gangetic hairfin, dried",
+  "name_bn": "Fesha, shutki",
+  "category": "fish",
+  "aliases": [
+   "Fesha, shutki"
+  ],
+  "kcal100": 328,
+  "protein100": 70.9,
+  "carbs100": 0,
+  "fat100": 4.9,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0002",
+  "name_en": "Anchovy, Gangetic hairfin, raw",
+  "name_bn": "Fesha",
+  "category": "fish",
+  "aliases": [
+   "Fesha"
+  ],
+  "kcal100": 105,
+  "protein100": 17.7,
+  "carbs100": 0,
+  "fat100": 3.8,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0003",
+  "name_en": "Anchovy, Gold spotted grebadier, raw",
+  "name_bn": "Olua",
+  "category": "fish",
+  "aliases": [
+   "Olua"
+  ],
+  "kcal100": 71,
+  "protein100": 13.2,
+  "carbs100": 0,
+  "fat100": 2.1,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0004",
+  "name_en": "Anchovy, Scaly hairfin, raw",
+  "name_bn": "Fesha, Teli",
+  "category": "fish",
+  "aliases": [
+   "Fesha, Teli"
+  ],
+  "kcal100": 101,
+  "protein100": 19.3,
+  "carbs100": 0,
+  "fat100": 2.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0005",
+  "name_en": "Barb, Olive, raw",
+  "name_bn": "Sorpunti",
+  "category": "fish",
+  "aliases": [
+   "Sorpunti"
+  ],
+  "kcal100": 175,
+  "protein100": 17.4,
+  "carbs100": 0,
+  "fat100": 11.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0006",
+  "name_en": "Barb, Olive, without bones, raw",
+  "name_bn": "Sorpunti, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Sorpunti, kata chara"
+  ],
+  "kcal100": 175,
+  "protein100": 17.4,
+  "carbs100": 0,
+  "fat100": 11.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0007",
+  "name_en": "Barb, Pool barb, eyes included, raw",
+  "name_bn": "Punti, Vadi punti, chokh soho",
+  "category": "fish",
+  "aliases": [
+   "Punti, Vadi punti, chokh soho"
+  ],
+  "kcal100": 139,
+  "protein100": 17.6,
+  "carbs100": 0,
+  "fat100": 7.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0008",
+  "name_en": "Barb, Pool barb, without bones, eyes included, raw",
+  "name_bn": "Punti, Vadi punti, chokh soho, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Punti, Vadi punti, chokh soho, kata chara"
+  ],
+  "kcal100": 94,
+  "protein100": 17.6,
+  "carbs100": 0,
+  "fat100": 2.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0009",
+  "name_en": "Bata, raw",
+  "name_bn": "Bata",
+  "category": "fish",
+  "aliases": [
+   "Bata"
+  ],
+  "kcal100": 106,
+  "protein100": 15.9,
+  "carbs100": 0,
+  "fat100": 4.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0010",
+  "name_en": "Boal, without bones, raw",
+  "name_bn": "Boal, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Boal, kata chara"
+  ],
+  "kcal100": 80,
+  "protein100": 15.4,
+  "carbs100": 0,
+  "fat100": 2.1,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0011",
+  "name_en": "Bronze feather back, raw",
+  "name_bn": "Foli",
+  "category": "fish",
+  "aliases": [
+   "Foli"
+  ],
+  "kcal100": 80,
+  "protein100": 17.8,
+  "carbs100": 0,
+  "fat100": 1.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0012",
+  "name_en": "Calbasu, without bones, raw",
+  "name_bn": "Kalbaush",
+  "category": "fish",
+  "aliases": [
+   "Kalbaush"
+  ],
+  "kcal100": 95,
+  "protein100": 17.0,
+  "carbs100": 0,
+  "fat100": 3.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0013",
+  "name_en": "Catfish, Bacha, raw",
+  "name_bn": "Bacha",
+  "category": "fish",
+  "aliases": [
+   "Bacha"
+  ],
+  "kcal100": 122,
+  "protein100": 16.1,
+  "carbs100": 0,
+  "fat100": 6.4,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0014",
+  "name_en": "Catfish, Pabda, raw",
+  "name_bn": "Pabda",
+  "category": "fish",
+  "aliases": [
+   "Pabda"
+  ],
+  "kcal100": 95,
+  "protein100": 17.3,
+  "carbs100": 0,
+  "fat100": 2.8,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0015",
+  "name_en": "Catla, raw",
+  "name_bn": "কাতলা মাছ",
+  "category": "fish",
+  "aliases": [
+   "Katla"
+  ],
+  "kcal100": 103,
+  "protein100": 19.9,
+  "carbs100": 0,
+  "fat100": 2.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0016",
+  "name_en": "Chanda, Indian glaasy fish, eyes included, raw",
+  "name_bn": "Chanda, ranga, chokh soho",
+  "category": "fish",
+  "aliases": [
+   "Chanda, ranga, chokh soho"
+  ],
+  "kcal100": 115,
+  "protein100": 15.5,
+  "carbs100": 0,
+  "fat100": 5.9,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0017",
+  "name_en": "Climbing perch, indigenous, eyes included, raw",
+  "name_bn": "Koi, deshi, chokh soho",
+  "category": "fish",
+  "aliases": [
+   "Koi, deshi, chokh soho"
+  ],
+  "kcal100": 130,
+  "protein100": 17.5,
+  "carbs100": 0,
+  "fat100": 6.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0018",
+  "name_en": "Climbing perch, Thai, eyes included, raw",
+  "name_bn": "Koi, Thai, chokh soho",
+  "category": "fish",
+  "aliases": [
+   "Koi, Thai, chokh soho"
+  ],
+  "kcal100": 139,
+  "protein100": 17.5,
+  "carbs100": 0,
+  "fat100": 7.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0019",
+  "name_en": "Clown knife fish, without bones, raw",
+  "name_bn": "Chital, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Chital, kata chara"
+  ],
+  "kcal100": 96,
+  "protein100": 17.8,
+  "carbs100": 0,
+  "fat100": 2.8,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0020",
+  "name_en": "Common carp, without bones, raw",
+  "name_bn": "Common carp, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Common carp, kata chara"
+  ],
+  "kcal100": 88,
+  "protein100": 18.7,
+  "carbs100": 0,
+  "fat100": 1.5,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0021",
+  "name_en": "Croaker, Black spotted, without bones, raw",
+  "name_bn": "Poa, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Poa, kata chara"
+  ],
+  "kcal100": 100,
+  "protein100": 18.6,
+  "carbs100": 0,
+  "fat100": 2.9,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0022",
+  "name_en": "Day's mystus, combined species, eyes included, raw",
+  "name_bn": "Tengra, bivinno projati, chokh soho",
+  "category": "fish",
+  "aliases": [
+   "Tengra, bivinno projati, chokh soho"
+  ],
+  "kcal100": 114,
+  "protein100": 18.2,
+  "carbs100": 0,
+  "fat100": 4.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0023",
+  "name_en": "Fish (Catla, Mrigal, Rohu), dorsal with skin, raw",
+  "name_bn": "Macher gada (Katla, Mrigal, Rui)",
+  "category": "fish",
+  "aliases": [
+   "Macher gada (Katla, Mrigal, Rui)"
+  ],
+  "kcal100": 104,
+  "protein100": 19.7,
+  "carbs100": 0,
+  "fat100": 2.8,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0024",
+  "name_en": "Fish (Catla, Mrigal, Rohu), ventral with skin, raw",
+  "name_bn": "Macher peti (Katla, Mrigal, Rui)",
+  "category": "fish",
+  "aliases": [
+   "Macher peti (Katla, Mrigal, Rui)"
+  ],
+  "kcal100": 130,
+  "protein100": 21.4,
+  "carbs100": 0,
+  "fat100": 4.9,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0025",
+  "name_en": "Ganges river sprat, combined species, raw",
+  "name_bn": "Kachki, bivinno projati",
+  "category": "fish",
+  "aliases": [
+   "Kachki, bivinno projati"
+  ],
+  "kcal100": 93,
+  "protein100": 16.1,
+  "carbs100": 0,
+  "fat100": 3.2,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0026",
+  "name_en": "Gangetic ailia, raw",
+  "name_bn": "Kajuli",
+  "category": "fish",
+  "aliases": [
+   "Kajuli"
+  ],
+  "kcal100": 117,
+  "protein100": 15.3,
+  "carbs100": 0,
+  "fat100": 6.2,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0027",
+  "name_en": "Gangetic mystus, raw",
+  "name_bn": "Gulsha",
+  "category": "fish",
+  "aliases": [
+   "Gulsha"
+  ],
+  "kcal100": 86,
+  "protein100": 15.4,
+  "carbs100": 0,
+  "fat100": 2.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0028",
+  "name_en": "Giant river-catfish, raw",
+  "name_bn": "Guizza",
+  "category": "fish",
+  "aliases": [
+   "Guizza"
+  ],
+  "kcal100": 75,
+  "protein100": 15.9,
+  "carbs100": 0,
+  "fat100": 1.3,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0029",
+  "name_en": "Giant sea perch, whole, dried",
+  "name_bn": "Vetkee, shutki",
+  "category": "fish",
+  "aliases": [
+   "Vetkee, shutki"
+  ],
+  "kcal100": 318,
+  "protein100": 60.2,
+  "carbs100": 0,
+  "fat100": 8.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0030",
+  "name_en": "Giant sea perch, without bones, raw",
+  "name_bn": "Vetkee, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Vetkee, kata chara"
+  ],
+  "kcal100": 96,
+  "protein100": 18.6,
+  "carbs100": 0,
+  "fat100": 2.5,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0031",
+  "name_en": "Goby, Tank goby, raw",
+  "name_bn": "Bele",
+  "category": "fish",
+  "aliases": [
+   "Bele"
+  ],
+  "kcal100": 81,
+  "protein100": 14.7,
+  "carbs100": 0,
+  "fat100": 2.5,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0032",
+  "name_en": "Gourami, Banded gourami, eyes included, raw",
+  "name_bn": "Khailsa, kata chara, chokh soho",
+  "category": "fish",
+  "aliases": [
+   "Khailsa, kata chara, chokh soho"
+  ],
+  "kcal100": 105,
+  "protein100": 15.8,
+  "carbs100": 0,
+  "fat100": 4.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0033",
+  "name_en": "Hilsha, without bones, raw",
+  "name_bn": "ইলিশ মাছ",
+  "category": "fish",
+  "aliases": [
+   "Ilish, kata chara"
+  ],
+  "kcal100": 223,
+  "protein100": 18.0,
+  "carbs100": 0,
+  "fat100": 16.8,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0034",
+  "name_en": "Indian river shad, raw",
+  "name_bn": "Chapila",
+  "category": "fish",
+  "aliases": [
+   "Chapila"
+  ],
+  "kcal100": 106,
+  "protein100": 15.4,
+  "carbs100": 0,
+  "fat100": 4.9,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0035",
+  "name_en": "Indian threadfin, without bones, raw",
+  "name_bn": "Lakkha, gada, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Lakkha, gada, kata chara"
+  ],
+  "kcal100": 102,
+  "protein100": 20.3,
+  "carbs100": 0,
+  "fat100": 2.1,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0036",
+  "name_en": "Indo-pacific king mackerel, without bones, raw",
+  "name_bn": "Surma/ Bijoram, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Surma/ Bijoram, kata chara"
+  ],
+  "kcal100": 102,
+  "protein100": 20.9,
+  "carbs100": 0,
+  "fat100": 2.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0037",
+  "name_en": "Kuria labeo, without bones, raw",
+  "name_bn": "Gonia, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Gonia, kata chara"
+  ],
+  "kcal100": 109,
+  "protein100": 17.6,
+  "carbs100": 0,
+  "fat100": 4.3,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0038",
+  "name_en": "Long-whiskered catfish, without bones, raw",
+  "name_bn": "Ayre, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Ayre, kata chara"
+  ],
+  "kcal100": 89,
+  "protein100": 17.0,
+  "carbs100": 0,
+  "fat100": 2.3,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0039",
+  "name_en": "Mackerel, narrow-barred Spanish, raw",
+  "name_bn": "Chompa",
+  "category": "fish",
+  "aliases": [
+   "Chompa"
+  ],
+  "kcal100": 112,
+  "protein100": 19.8,
+  "carbs100": 0,
+  "fat100": 3.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0040",
+  "name_en": "Minnow, Finescale razorbelly, raw",
+  "name_bn": "Chela, Fulchela",
+  "category": "fish",
+  "aliases": [
+   "Chela, Fulchela"
+  ],
+  "kcal100": 95,
+  "protein100": 15.3,
+  "carbs100": 0,
+  "fat100": 3.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0041",
+  "name_en": "Minnow, Finescale razorbelly, dried",
+  "name_bn": "Chela, Fulchela, shukna",
+  "category": "fish",
+  "aliases": [
+   "Chela, Fulchela, shukna"
+  ],
+  "kcal100": 412,
+  "protein100": 64.8,
+  "carbs100": 0,
+  "fat100": 17.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0042",
+  "name_en": "Minnow, Large scale razorbelly, raw",
+  "name_bn": "Chela, narkeli",
+  "category": "fish",
+  "aliases": [
+   "Chela, narkeli"
+  ],
+  "kcal100": 119,
+  "protein100": 18.1,
+  "carbs100": 0,
+  "fat100": 5.2,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0043",
+  "name_en": "Mola carplet, whole, eyes included, raw",
+  "name_bn": "Mola, chokh soho",
+  "category": "fish",
+  "aliases": [
+   "Mola, chokh soho"
+  ],
+  "kcal100": 108,
+  "protein100": 17.1,
+  "carbs100": 0,
+  "fat100": 4.4,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0044",
+  "name_en": "Mrigal carp, eyes included, raw",
+  "name_bn": "Mrigal, chokh soho",
+  "category": "fish",
+  "aliases": [
+   "Mrigal, chokh soho"
+  ],
+  "kcal100": 102,
+  "protein100": 18.6,
+  "carbs100": 0,
+  "fat100": 3.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0045",
+  "name_en": "Mullet, Gold spot, raw",
+  "name_bn": "Parshe",
+  "category": "fish",
+  "aliases": [
+   "Parshe"
+  ],
+  "kcal100": 120,
+  "protein100": 18.7,
+  "carbs100": 0,
+  "fat100": 5.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0046",
+  "name_en": "Mussel/Clam, mixed species, raw",
+  "name_bn": "Jhinuk",
+  "category": "fish",
+  "aliases": [
+   "Jhinuk"
+  ],
+  "kcal100": 60,
+  "protein100": 11.6,
+  "carbs100": 0,
+  "fat100": 1.5,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0047",
+  "name_en": "Pangas, without bones, raw",
+  "name_bn": "পাঙ্গাস মাছ",
+  "category": "fish",
+  "aliases": [
+   "Pangas, kata chara"
+  ],
+  "kcal100": 162,
+  "protein100": 15.9,
+  "carbs100": 0,
+  "fat100": 11.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0048",
+  "name_en": "Perch, Mud, raw",
+  "name_bn": "Meni",
+  "category": "fish",
+  "aliases": [
+   "Meni"
+  ],
+  "kcal100": 99,
+  "protein100": 15.8,
+  "carbs100": 0,
+  "fat100": 4.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0049",
+  "name_en": "Pomfret, Black, raw",
+  "name_bn": "Rupchanda, kalo, bivinno projati",
+  "category": "fish",
+  "aliases": [
+   "Rupchanda, kalo, bivinno projati"
+  ],
+  "kcal100": 112,
+  "protein100": 19.6,
+  "carbs100": 0,
+  "fat100": 3.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0050",
+  "name_en": "Pomfret, Chinese Silver, raw",
+  "name_bn": "Rupchanda, China sada",
+  "category": "fish",
+  "aliases": [
+   "Rupchanda, China sada"
+  ],
+  "kcal100": 103,
+  "protein100": 15.9,
+  "carbs100": 0,
+  "fat100": 4.4,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0051",
+  "name_en": "Pomfret, Silver, dried",
+  "name_bn": "Rupchanda, sada, shutki",
+  "category": "fish",
+  "aliases": [
+   "Rupchanda, sada, shutki"
+  ],
+  "kcal100": 349,
+  "protein100": 62.1,
+  "carbs100": 0,
+  "fat100": 11.2,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0052",
+  "name_en": "Pomfret, Silver, without bones, raw",
+  "name_bn": "Rupchanda, sada",
+  "category": "fish",
+  "aliases": [
+   "Rupchanda, sada"
+  ],
+  "kcal100": 108,
+  "protein100": 17.9,
+  "carbs100": 0,
+  "fat100": 4.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0053",
+  "name_en": "Prawn, Birma river prawn, raw",
+  "name_bn": "Chingri, Birma nodir",
+  "category": "fish",
+  "aliases": [
+   "Chingri, Birma nodir"
+  ],
+  "kcal100": 75,
+  "protein100": 18.8,
+  "carbs100": 0,
+  "fat100": 1.3,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0054",
+  "name_en": "Prawn, Giant river prawn, raw",
+  "name_bn": "Chingri, Golda",
+  "category": "fish",
+  "aliases": [
+   "Chingri, Golda"
+  ],
+  "kcal100": 102,
+  "protein100": 20.9,
+  "carbs100": 0,
+  "fat100": 2.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0055",
+  "name_en": "Prawn, Giant tiger prawn, raw",
+  "name_bn": "Chingri, Bagda",
+  "category": "fish",
+  "aliases": [
+   "Chingri, Bagda"
+  ],
+  "kcal100": 92,
+  "protein100": 16.5,
+  "carbs100": 0,
+  "fat100": 2.9,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0056",
+  "name_en": "Prawn, Hairy river prawn, raw",
+  "name_bn": "Chingri",
+  "category": "fish",
+  "aliases": [
+   "Chingri"
+  ],
+  "kcal100": 75,
+  "protein100": 17.6,
+  "carbs100": 0,
+  "fat100": 0.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0057",
+  "name_en": "Prawn, Indian white prawn, raw",
+  "name_bn": "Chingri sada, nodir",
+  "category": "fish",
+  "aliases": [
+   "Chingri sada, nodir"
+  ],
+  "kcal100": 95,
+  "protein100": 16.4,
+  "carbs100": 0,
+  "fat100": 3.3,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0058",
+  "name_en": "Prawn, Monsoon river prawn, raw",
+  "name_bn": "Chingri, nodir",
+  "category": "fish",
+  "aliases": [
+   "Chingri, nodir"
+  ],
+  "kcal100": 79,
+  "protein100": 18.2,
+  "carbs100": 0,
+  "fat100": 0.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0059",
+  "name_en": "Rohu, river, raw",
+  "name_bn": "Rui, nodir",
+  "category": "fish",
+  "aliases": [
+   "Rui, nodir"
+  ],
+  "kcal100": 90,
+  "protein100": 16.6,
+  "carbs100": 0,
+  "fat100": 2.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0060",
+  "name_en": "Rohu, without bones, raw",
+  "name_bn": "রুই মাছ",
+  "category": "fish",
+  "aliases": [
+   "Rui, kata chara"
+  ],
+  "kcal100": 105,
+  "protein100": 20.6,
+  "carbs100": 0,
+  "fat100": 2.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0061",
+  "name_en": "Shrimp, Speckled, raw",
+  "name_bn": "Chingri, Horina",
+  "category": "fish",
+  "aliases": [
+   "Chingri, Horina"
+  ],
+  "kcal100": 81,
+  "protein100": 17.0,
+  "carbs100": 0,
+  "fat100": 1.4,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0062",
+  "name_en": "Silver carp, without bones, raw",
+  "name_bn": "Silver carp, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Silver carp, kata chara"
+  ],
+  "kcal100": 123,
+  "protein100": 17.5,
+  "carbs100": 0,
+  "fat100": 6.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0063",
+  "name_en": "Silver needle fish, eyes included, raw",
+  "name_bn": "Kakila, chokh soho",
+  "category": "fish",
+  "aliases": [
+   "Kakila, chokh soho"
+  ],
+  "kcal100": 94,
+  "protein100": 16.6,
+  "carbs100": 0,
+  "fat100": 3.1,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0064",
+  "name_en": "Spotted snakehead, raw",
+  "name_bn": "Taki, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Taki, kata chara"
+  ],
+  "kcal100": 91,
+  "protein100": 17.3,
+  "carbs100": 0,
+  "fat100": 2.4,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0065",
+  "name_en": "Stinging catfish, raw",
+  "name_bn": "Shing mach, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Shing mach, kata chara"
+  ],
+  "kcal100": 101,
+  "protein100": 17.2,
+  "carbs100": 0,
+  "fat100": 3.5,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0066",
+  "name_en": "Stone roller, raw",
+  "name_bn": "Tatkini",
+  "category": "fish",
+  "aliases": [
+   "Tatkini"
+  ],
+  "kcal100": 97,
+  "protein100": 15.3,
+  "carbs100": 0,
+  "fat100": 3.9,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0067",
+  "name_en": "Striped snake-head, raw",
+  "name_bn": "Shol, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Shol, kata chara"
+  ],
+  "kcal100": 101,
+  "protein100": 17.7,
+  "carbs100": 0,
+  "fat100": 3.3,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0068",
+  "name_en": "Tilapia, without bones, raw",
+  "name_bn": "তেলাপিয়া মাছ",
+  "category": "fish",
+  "aliases": [
+   "Telapia, kata chara"
+  ],
+  "kcal100": 110,
+  "protein100": 20.8,
+  "carbs100": 0,
+  "fat100": 3.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0069",
+  "name_en": "Tuna, without bones, raw",
+  "name_bn": "Tuna, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Tuna, kata chara"
+  ],
+  "kcal100": 118,
+  "protein100": 25.0,
+  "carbs100": 0,
+  "fat100": 2.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0070",
+  "name_en": "Walking catfish, without bones, raw",
+  "name_bn": "Magur, kata chara",
+  "category": "fish",
+  "aliases": [
+   "Magur, kata chara"
+  ],
+  "kcal100": 103,
+  "protein100": 15.6,
+  "carbs100": 0,
+  "fat100": 4.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0071",
+  "name_en": "Small fish fry*",
+  "name_bn": "Kachki mach vaja",
+  "category": "fish",
+  "aliases": [
+   "Kachki mach vaja"
+  ],
+  "kcal100": 107,
+  "protein100": 7.4,
+  "carbs100": 5.3,
+  "fat100": 6.1,
+  "fiber100": 0.9,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_09_0072",
+  "name_en": "Fish ball*",
+  "name_bn": "Macher kopta",
+  "category": "fish",
+  "aliases": [
+   "Macher kopta"
+  ],
+  "kcal100": 220,
+  "protein100": 15.7,
+  "carbs100": 21.7,
+  "fat100": 6.7,
+  "fiber100": 5.0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0001",
+  "name_en": "Beef liver, raw",
+  "name_bn": "Gorur koliza",
+  "category": "meat",
+  "aliases": [
+   "Gorur koliza"
+  ],
+  "kcal100": 130,
+  "protein100": 20.4,
+  "carbs100": 3.9,
+  "fat100": 3.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0002",
+  "name_en": "Beef, meat, lean, boneless, raw",
+  "name_bn": "গরুর মাংস",
+  "category": "meat",
+  "aliases": [
+   "Gorur mangsaw, harh o chorbi chara"
+  ],
+  "kcal100": 103,
+  "protein100": 20.7,
+  "carbs100": 0,
+  "fat100": 2.3,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0003",
+  "name_en": "Beef, meat, 15-20% fat, boneless, raw",
+  "name_bn": "Gorur mangsaw, harh chara",
+  "category": "meat",
+  "aliases": [
+   "Gorur mangsaw, harh chara"
+  ],
+  "kcal100": 207,
+  "protein100": 19.7,
+  "carbs100": 0,
+  "fat100": 14.2,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0004",
+  "name_en": "Beef, mince, lean, raw",
+  "name_bn": "Gorur mangsaw, kima",
+  "category": "meat",
+  "aliases": [
+   "Gorur mangsaw, kima"
+  ],
+  "kcal100": 126,
+  "protein100": 20.3,
+  "carbs100": 0,
+  "fat100": 5.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0005",
+  "name_en": "Buffalo meat, raw",
+  "name_bn": "Mohisher mangsaw",
+  "category": "meat",
+  "aliases": [
+   "Mohisher mangsaw"
+  ],
+  "kcal100": 95,
+  "protein100": 19.4,
+  "carbs100": 0,
+  "fat100": 1.9,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0006",
+  "name_en": "Chicken breast, without skin, raw",
+  "name_bn": "মুরগির বুকের মাংস",
+  "category": "meat",
+  "aliases": [
+   "Murgi, buker mangsaw, chamra charano"
+  ],
+  "kcal100": 106,
+  "protein100": 22.3,
+  "carbs100": 0,
+  "fat100": 1.8,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0007",
+  "name_en": "Chicken leg, without skin, raw",
+  "name_bn": "মুরগির রান",
+  "category": "meat",
+  "aliases": [
+   "Murgi, ranner mangsaw, chamra charano"
+  ],
+  "kcal100": 128,
+  "protein100": 19.2,
+  "carbs100": 0,
+  "fat100": 5.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0008",
+  "name_en": "Chicken liver, raw",
+  "name_bn": "Murgir koliza",
+  "category": "meat",
+  "aliases": [
+   "Murgir koliza"
+  ],
+  "kcal100": 114,
+  "protein100": 16.9,
+  "carbs100": 0.7,
+  "fat100": 4.8,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0009",
+  "name_en": "Duck, meat, raw",
+  "name_bn": "Hasher mangshaw",
+  "category": "meat",
+  "aliases": [
+   "Hasher mangshaw"
+  ],
+  "kcal100": 130,
+  "protein100": 21.6,
+  "carbs100": 0,
+  "fat100": 4.8,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0010",
+  "name_en": "Frog, legs, raw",
+  "name_bn": "Bang",
+  "category": "meat",
+  "aliases": [
+   "Bang"
+  ],
+  "kcal100": 68,
+  "protein100": 16.4,
+  "carbs100": 0,
+  "fat100": 0.3,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0011",
+  "name_en": "Goat meat, lean, raw",
+  "name_bn": "Khaseer mangsaw",
+  "category": "meat",
+  "aliases": [
+   "Khaseer mangsaw"
+  ],
+  "kcal100": 118,
+  "protein100": 21.4,
+  "carbs100": 0,
+  "fat100": 3.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0012",
+  "name_en": "Lamb/mutton, meat, moderately fat, raw",
+  "name_bn": "Verar mangsaw",
+  "category": "meat",
+  "aliases": [
+   "Verar mangsaw"
+  ],
+  "kcal100": 196,
+  "protein100": 18.5,
+  "carbs100": 0,
+  "fat100": 13.5,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0013",
+  "name_en": "Lamb/Mutton, liver, raw",
+  "name_bn": "Verar koliza",
+  "category": "meat",
+  "aliases": [
+   "Verar koliza"
+  ],
+  "kcal100": 150,
+  "protein100": 19.3,
+  "carbs100": 1.3,
+  "fat100": 7.5,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0014",
+  "name_en": "Pigeon meat, raw",
+  "name_bn": "Kobutorer mangsaw",
+  "category": "meat",
+  "aliases": [
+   "Kobutorer mangsaw"
+  ],
+  "kcal100": 137,
+  "protein100": 23.3,
+  "carbs100": 0,
+  "fat100": 4.9,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0015",
+  "name_en": "Pork, meat, <5 % fat, raw",
+  "name_bn": "Shukorer mangsaw",
+  "category": "meat",
+  "aliases": [
+   "Shukorer mangsaw"
+  ],
+  "kcal100": 114,
+  "protein100": 18.7,
+  "carbs100": 0,
+  "fat100": 4.4,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_10_0016",
+  "name_en": "Beef handi kabab*",
+  "name_bn": "Haaree kabab (goru)",
+  "category": "meat",
+  "aliases": [
+   "Haaree kabab (goru)"
+  ],
+  "kcal100": 233,
+  "protein100": 12.7,
+  "carbs100": 6.6,
+  "fat100": 16.9,
+  "fiber100": 1.8,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   },
+   {
+    "unit": "plate",
+    "grams": 200,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_11_0001",
+  "name_en": "Egg, chicken, farmed, raw",
+  "name_bn": "মুরগির ডিম (ফার্ম)",
+  "category": "egg",
+  "aliases": [
+   "Murgir dim, farm er"
+  ],
+  "kcal100": 139,
+  "protein100": 14.5,
+  "carbs100": 0,
+  "fat100": 9.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_11_0002",
+  "name_en": "Egg, chicken, native, raw",
+  "name_bn": "Murgir dim, deshi",
+  "category": "egg",
+  "aliases": [
+   "Murgir dim, deshi"
+  ],
+  "kcal100": 158,
+  "protein100": 13.3,
+  "carbs100": 0,
+  "fat100": 11.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_11_0003",
+  "name_en": "Egg, chicken, native, yolk, raw",
+  "name_bn": "Murgir dim er kusum, deshi",
+  "category": "egg",
+  "aliases": [
+   "Murgir dim er kusum, deshi"
+  ],
+  "kcal100": 325,
+  "protein100": 16.0,
+  "carbs100": 2.6,
+  "fat100": 27.8,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_11_0004",
+  "name_en": "Egg, duck, whole, raw",
+  "name_bn": "হাঁসের ডিম",
+  "category": "egg",
+  "aliases": [
+   "Hasher dim"
+  ],
+  "kcal100": 188,
+  "protein100": 13.5,
+  "carbs100": 1.4,
+  "fat100": 14.3,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_11_0005",
+  "name_en": "Egg, chicken, farmed, boiled* (without salt)",
+  "name_bn": "Murgir dim siddha, lobon chara",
+  "category": "egg",
+  "aliases": [
+   "Murgir dim siddha, lobon chara"
+  ],
+  "kcal100": 158,
+  "protein100": 16.5,
+  "carbs100": 0,
+  "fat100": 10.2,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_11_0006",
+  "name_en": "Egg, chicken, native, boiled* (without salt)",
+  "name_bn": "Deshi murgir dim siddha, lobon chara",
+  "category": "egg",
+  "aliases": [
+   "Deshi murgir dim siddha, lobon chara"
+  ],
+  "kcal100": 179,
+  "protein100": 15.1,
+  "carbs100": 0,
+  "fat100": 13.2,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_11_0007",
+  "name_en": "Egg, duck, whole, boiled* (without salt)",
+  "name_bn": "Hasher dim siddha, lobon chara",
+  "category": "egg",
+  "aliases": [
+   "Hasher dim siddha, lobon chara"
+  ],
+  "kcal100": 214,
+  "protein100": 15.3,
+  "carbs100": 1.6,
+  "fat100": 16.2,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0001",
+  "name_en": "Buttermilk, fluid, low fat",
+  "name_bn": "Ghol",
+  "category": "dairy",
+  "aliases": [
+   "Ghol"
+  ],
+  "kcal100": 33,
+  "protein100": 3.4,
+  "carbs100": 3.1,
+  "fat100": 0.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0002",
+  "name_en": "Cheese, cottage, 25% fat",
+  "name_bn": "Poneer",
+  "category": "dairy",
+  "aliases": [
+   "Poneer"
+  ],
+  "kcal100": 346,
+  "protein100": 24.6,
+  "carbs100": 5.4,
+  "fat100": 25.1,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0003",
+  "name_en": "Curd, sweetened, whole milk",
+  "name_bn": "Doi, misti",
+  "category": "dairy",
+  "aliases": [
+   "Doi, misti"
+  ],
+  "kcal100": 94,
+  "protein100": 3.2,
+  "carbs100": 11.4,
+  "fat100": 4.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0004",
+  "name_en": "Milk, buffalo, whole fat",
+  "name_bn": "Mohiser dudh",
+  "category": "dairy",
+  "aliases": [
+   "Mohiser dudh"
+  ],
+  "kcal100": 101,
+  "protein100": 3.8,
+  "carbs100": 4.7,
+  "fat100": 7.5,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0005",
+  "name_en": "Milk, cow, powder, skimmed",
+  "name_bn": "Gura dudh, Goru, makhon tola/noniheen",
+  "category": "dairy",
+  "aliases": [
+   "Gura dudh, Goru, makhon tola/noniheen"
+  ],
+  "kcal100": 358,
+  "protein100": 37.6,
+  "carbs100": 49.8,
+  "fat100": 1.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0006",
+  "name_en": "Milk, cow, powder, whole",
+  "name_bn": "Gura dudh, Goru, noni soho",
+  "category": "dairy",
+  "aliases": [
+   "Gura dudh, Goru, noni soho"
+  ],
+  "kcal100": 497,
+  "protein100": 26.6,
+  "carbs100": 37.5,
+  "fat100": 26.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0007",
+  "name_en": "Milk, cow, skimmed",
+  "name_bn": "Gorur dudh, makhon tola/noniheen",
+  "category": "dairy",
+  "aliases": [
+   "Gorur dudh, makhon tola/noniheen"
+  ],
+  "kcal100": 30,
+  "protein100": 3.1,
+  "carbs100": 4.1,
+  "fat100": 0.1,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0008",
+  "name_en": "Milk, cow, whole fat (pasteurized, UTH)",
+  "name_bn": "গরুর দুধ",
+  "category": "dairy",
+  "aliases": [
+   "Gorur dudh, purno noni soho"
+  ],
+  "kcal100": 63,
+  "protein100": 3.1,
+  "carbs100": 4.3,
+  "fat100": 3.7,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0009",
+  "name_en": "Milk, cow, whole, condensed, sweetened",
+  "name_bn": "Kondense milk, Goru, chini soho",
+  "category": "dairy",
+  "aliases": [
+   "Kondense milk, Goru, chini soho"
+  ],
+  "kcal100": 334,
+  "protein100": 8.2,
+  "carbs100": 54.0,
+  "fat100": 9.4,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0010",
+  "name_en": "Milk, goat, combined breeds",
+  "name_bn": "Chagoler dudh",
+  "category": "dairy",
+  "aliases": [
+   "Chagoler dudh"
+  ],
+  "kcal100": 68,
+  "protein100": 3.5,
+  "carbs100": 4.3,
+  "fat100": 4.1,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0011",
+  "name_en": "Milk, human, colostrum, raw",
+  "name_bn": "Shaldudh",
+  "category": "dairy",
+  "aliases": [
+   "Shaldudh"
+  ],
+  "kcal100": 58,
+  "protein100": 2.0,
+  "carbs100": 6.6,
+  "fat100": 2.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0012",
+  "name_en": "Milk, human, mature, raw",
+  "name_bn": "Mayer dudh",
+  "category": "dairy",
+  "aliases": [
+   "Mayer dudh"
+  ],
+  "kcal100": 69,
+  "protein100": 1.2,
+  "carbs100": 7.2,
+  "fat100": 4.0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_12_0013",
+  "name_en": "Payesh*",
+  "name_bn": "Payesh",
+  "category": "dairy",
+  "aliases": [
+   "Payesh"
+  ],
+  "kcal100": 205,
+  "protein100": 4.3,
+  "carbs100": 36.2,
+  "fat100": 4.7,
+  "fiber100": 0.2,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   },
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   },
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0001",
+  "name_en": "Butter, salted",
+  "name_bn": "Makhon, nonta",
+  "category": "oil",
+  "aliases": [
+   "Makhon, nonta"
+  ],
+  "kcal100": 733,
+  "protein100": 0.9,
+  "carbs100": 0.2,
+  "fat100": 81,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0002",
+  "name_en": "Cottonseed oil",
+  "name_bn": "Tular bij er tel",
+  "category": "oil",
+  "aliases": [
+   "Tular bij er tel"
+  ],
+  "kcal100": 900,
+  "protein100": 0,
+  "carbs100": 0,
+  "fat100": 100,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0003",
+  "name_en": "Fish oil, cod liver",
+  "name_bn": "Kod liver tel",
+  "category": "oil",
+  "aliases": [
+   "Kod liver tel"
+  ],
+  "kcal100": 900,
+  "protein100": 0,
+  "carbs100": 0,
+  "fat100": 100,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0004",
+  "name_en": "Ghee, cow",
+  "name_bn": "Ghee, cow",
+  "category": "oil",
+  "aliases": [
+   "Ghee, cow"
+  ],
+  "kcal100": 898,
+  "protein100": 0,
+  "carbs100": 0,
+  "fat100": 99.8,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0005",
+  "name_en": "Ghee, vegetable",
+  "name_bn": "Dalda/Bonoshpati",
+  "category": "oil",
+  "aliases": [
+   "Dalda/Bonoshpati"
+  ],
+  "kcal100": 900,
+  "protein100": 0,
+  "carbs100": 0,
+  "fat100": 100,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0006",
+  "name_en": "Margarine",
+  "name_bn": "Margarine",
+  "category": "oil",
+  "aliases": [
+   "Margarine"
+  ],
+  "kcal100": 750,
+  "protein100": 0.3,
+  "carbs100": 0,
+  "fat100": 83.3,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0007",
+  "name_en": "Mayonnaise, salted",
+  "name_bn": "Mayonnaise, nonta",
+  "category": "oil",
+  "aliases": [
+   "Mayonnaise, nonta"
+  ],
+  "kcal100": 732,
+  "protein100": 1.5,
+  "carbs100": 0,
+  "fat100": 80.6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0008",
+  "name_en": "Mustard oil",
+  "name_bn": "Sorishar tel",
+  "category": "oil",
+  "aliases": [
+   "Sorishar tel"
+  ],
+  "kcal100": 900,
+  "protein100": 0,
+  "carbs100": 0,
+  "fat100": 100,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0009",
+  "name_en": "Palm oil",
+  "name_bn": "Palm tel",
+  "category": "oil",
+  "aliases": [
+   "Palm tel"
+  ],
+  "kcal100": 900,
+  "protein100": 0,
+  "carbs100": 0,
+  "fat100": 100,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0010",
+  "name_en": "Peanut oil",
+  "name_bn": "China badam er tel",
+  "category": "oil",
+  "aliases": [
+   "China badam er tel"
+  ],
+  "kcal100": 900,
+  "protein100": 0,
+  "carbs100": 0,
+  "fat100": 100,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0011",
+  "name_en": "Sesame oil",
+  "name_bn": "Sesame oil",
+  "category": "oil",
+  "aliases": [
+   "Sesame oil"
+  ],
+  "kcal100": 900,
+  "protein100": 0,
+  "carbs100": 0,
+  "fat100": 100,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_13_0012",
+  "name_en": "Soybean oil",
+  "name_bn": "সয়াবিন তেল",
+  "category": "oil",
+  "aliases": [
+   "Soybean tel"
+  ],
+  "kcal100": 900,
+  "protein100": 0,
+  "carbs100": 0,
+  "fat100": 100,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_15_0001",
+  "name_en": "Baking powder",
+  "name_bn": "Baking powder",
+  "category": "other",
+  "aliases": [
+   "Baking powder"
+  ],
+  "kcal100": 172,
+  "protein100": 5.2,
+  "carbs100": 37.8,
+  "fat100": 0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_15_0002",
+  "name_en": "Betel leaves, raw",
+  "name_bn": "Pan pata",
+  "category": "other",
+  "aliases": [
+   "Pan pata"
+  ],
+  "kcal100": 42,
+  "protein100": 3.1,
+  "carbs100": 4.1,
+  "fat100": 0.4,
+  "fiber100": 4.7,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_15_0003",
+  "name_en": "Honey",
+  "name_bn": "Modhu",
+  "category": "other",
+  "aliases": [
+   "Modhu"
+  ],
+  "kcal100": 326,
+  "protein100": 0.3,
+  "carbs100": 81.1,
+  "fat100": 0,
+  "fiber100": 0.2,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_15_0004",
+  "name_en": "Jaggery, sugarcane, solid",
+  "name_bn": "Gur, Akh",
+  "category": "other",
+  "aliases": [
+   "Gur, Akh"
+  ],
+  "kcal100": 385,
+  "protein100": 0.5,
+  "carbs100": 95.4,
+  "fat100": 0.1,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_15_0005",
+  "name_en": "Jaggery/Panela, date palm",
+  "name_bn": "Gur, Khejur",
+  "category": "other",
+  "aliases": [
+   "Gur, Khejur"
+  ],
+  "kcal100": 352,
+  "protein100": 1.5,
+  "carbs100": 85.7,
+  "fat100": 0.3,
+  "fiber100": 0.3,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_15_0006",
+  "name_en": "Jagggery liquid, date palm",
+  "name_bn": "Nolen gur",
+  "category": "other",
+  "aliases": [
+   "Nolen gur"
+  ],
+  "kcal100": 86,
+  "protein100": 0.3,
+  "carbs100": 20.9,
+  "fat100": 0.1,
+  "fiber100": 0.1,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_15_0007",
+  "name_en": "Salt",
+  "name_bn": "Lobon",
+  "category": "other",
+  "aliases": [
+   "Lobon"
+  ],
+  "kcal100": 0,
+  "protein100": 0,
+  "carbs100": 0,
+  "fat100": 0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fctb_15_0008",
+  "name_en": "Sugar, white",
+  "name_bn": "Chini, sada",
+  "category": "other",
+  "aliases": [
+   "Chini, sada"
+  ],
+  "kcal100": 398,
+  "protein100": 0,
+  "carbs100": 99.5,
+  "fat100": 0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "fctb2013"
+ },
+ {
+  "id": "fuchka",
+  "name_en": "Fuchka",
+  "name_bn": "ফুচকা",
+  "category": "street",
+  "aliases": [],
+  "kcal100": 160,
+  "protein100": 4,
+  "carbs100": 28,
+  "fat100": 4,
+  "fiber100": 1,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 25,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "haleem",
+  "name_en": "Haleem",
+  "name_bn": "হালিম",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 120,
+  "protein100": 8,
+  "carbs100": 12,
+  "fat100": 4,
+  "fiber100": 1,
+  "portions": [
+   {
+    "unit": "bati",
+    "grams": 200,
+    "label_en": "bati",
+    "label_bn": "বাটি"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "ilish_bhapa",
+  "name_en": "Ilish bhapa",
+  "name_bn": "ইলিশ ভাপা",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 220,
+  "protein100": 18,
+  "carbs100": 2,
+  "fat100": 15,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "jhalmuri",
+  "name_en": "Jhalmuri",
+  "name_bn": "ঝালমুড়ি",
+  "category": "street",
+  "aliases": [],
+  "kcal100": 250,
+  "protein100": 5,
+  "carbs100": 38,
+  "fat100": 9,
+  "fiber100": 2,
+  "portions": [
+   {
+    "unit": "packet",
+    "grams": 80,
+    "label_en": "packet",
+    "label_bn": "প্যাকেট"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "kacchi",
+  "name_en": "Kacchi biriyani",
+  "name_bn": "কাচ্চি বিরিয়ানি",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 210,
+  "protein100": 10,
+  "carbs100": 18,
+  "fat100": 10,
+  "fiber100": 1,
+  "portions": [
+   {
+    "unit": "plate",
+    "grams": 350,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "khichuri",
+  "name_en": "Khichuri",
+  "name_bn": "খিচুড়ি",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 150,
+  "protein100": 5,
+  "carbs100": 22,
+  "fat100": 4,
+  "fiber100": 2,
+  "portions": [
+   {
+    "unit": "plate",
+    "grams": 250,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   },
+   {
+    "unit": "bati",
+    "grams": 150,
+    "label_en": "bati",
+    "label_bn": "বাটি"
+   }
+  ],
+  "source": "recipe"
+ },
+ {
+  "id": "laban",
+  "name_en": "Laban (salted yogurt drink)",
+  "name_bn": "লাবান",
+  "category": "drink",
+  "aliases": [],
+  "kcal100": 40,
+  "protein100": 2.5,
+  "carbs100": 4,
+  "fat100": 1.5,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "glass",
+    "grams": 250,
+    "label_en": "glass",
+    "label_bn": "গ্লাস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "mango",
+  "name_en": "Mango",
+  "name_bn": "আম",
+  "category": "fruit",
+  "aliases": [],
+  "kcal100": 60,
+  "protein100": 0.8,
+  "carbs100": 15,
+  "fat100": 0.4,
+  "fiber100": 1.6,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 200,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "mishti_doi",
+  "name_en": "Mishti doi",
+  "name_bn": "মিষ্টি দই",
+  "category": "sweet",
+  "aliases": [],
+  "kcal100": 120,
+  "protein100": 3,
+  "carbs100": 19,
+  "fat100": 3,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "cup",
+    "grams": 150,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "morog_pulao",
+  "name_en": "Morog pulao",
+  "name_bn": "মোরগ পোলাও",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 180,
+  "protein100": 10,
+  "carbs100": 20,
+  "fat100": 6,
+  "fiber100": 1,
+  "portions": [
+   {
+    "unit": "plate",
+    "grams": 300,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "nan",
+  "name_en": "Nan ruti",
+  "name_bn": "নান রুটি",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 310,
+  "protein100": 9,
+  "carbs100": 58,
+  "fat100": 4,
+  "fiber100": 3,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "paratha",
+  "name_en": "Paratha (fried)",
+  "name_bn": "পরোটা",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 400,
+  "protein100": 8,
+  "carbs100": 55,
+  "fat100": 18,
+  "fiber100": 4,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 60,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "payesh",
+  "name_en": "Payesh / firni",
+  "name_bn": "পায়েস",
+  "category": "sweet",
+  "aliases": [],
+  "kcal100": 120,
+  "protein100": 3,
+  "carbs100": 22,
+  "fat100": 2,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "bati",
+    "grams": 150,
+    "label_en": "bati",
+    "label_bn": "বাটি"
+   }
+  ],
+  "source": "recipe"
+ },
+ {
+  "id": "peanut_roasted",
+  "name_en": "Roasted peanuts",
+  "name_bn": "ভাজা চিনাবাদাম",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 567,
+  "protein100": 26,
+  "carbs100": 16,
+  "fat100": 49,
+  "fiber100": 8,
+  "portions": [
+   {
+    "unit": "spoon",
+    "grams": 15,
+    "label_en": "spoon",
+    "label_bn": "চামচ"
+   },
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "piaju",
+  "name_en": "Piaju",
+  "name_bn": "পিঁয়াজু",
+  "category": "street",
+  "aliases": [],
+  "kcal100": 350,
+  "protein100": 10,
+  "carbs100": 30,
+  "fat100": 20,
+  "fiber100": 3,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 20,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "pitha_bhapa",
+  "name_en": "Bhapa pitha",
+  "name_bn": "ভাপা পিঠা",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 250,
+  "protein100": 5,
+  "carbs100": 50,
+  "fat100": 3,
+  "fiber100": 1,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 60,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "pitha_tel",
+  "name_en": "Tel pitha",
+  "name_bn": "তেল পিঠা",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 400,
+  "protein100": 5,
+  "carbs100": 55,
+  "fat100": 18,
+  "fiber100": 1,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 40,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "pulao",
+  "name_en": "Pulao",
+  "name_bn": "পোলাও",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 140,
+  "protein100": 3,
+  "carbs100": 24,
+  "fat100": 3,
+  "fiber100": 1,
+  "portions": [
+   {
+    "unit": "plate",
+    "grams": 250,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   },
+   {
+    "unit": "bati",
+    "grams": 150,
+    "label_en": "bati",
+    "label_bn": "বাটি"
+   }
+  ],
+  "source": "recipe"
+ },
+ {
+  "id": "rong_cha",
+  "name_en": "Rong cha (black tea)",
+  "name_bn": "রং চা",
+  "category": "drink",
+  "aliases": [],
+  "kcal100": 25,
+  "protein100": 0,
+  "carbs100": 6,
+  "fat100": 0,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "cup",
+    "grams": 120,
+    "label_en": "cup",
+    "label_bn": "কাপ"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "roshogolla",
+  "name_en": "Roshogolla",
+  "name_bn": "রসগোল্লা",
+  "category": "sweet",
+  "aliases": [],
+  "kcal100": 250,
+  "protein100": 6,
+  "carbs100": 50,
+  "fat100": 2,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "rui_bhuna",
+  "name_en": "Rui machh bhuna (1 piece)",
+  "name_bn": "রুই ভুনা",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 165,
+  "protein100": 20,
+  "carbs100": 2,
+  "fat100": 8,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 100,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "ruti",
+  "name_en": "Ruti",
+  "name_bn": "রুটি",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 300,
+  "protein100": 10,
+  "carbs100": 60,
+  "fat100": 1.5,
+  "fiber100": 8,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 35,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "shingara",
+  "name_en": "Shingara",
+  "name_bn": "সিঙ্গারা",
+  "category": "street",
+  "aliases": [],
+  "kcal100": 300,
+  "protein100": 6,
+  "carbs100": 30,
+  "fat100": 16,
+  "fiber100": 2,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 50,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "shutki_bhuna",
+  "name_en": "Shutki bhuna",
+  "name_bn": "শুটকি ভুনা",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 200,
+  "protein100": 25,
+  "carbs100": 5,
+  "fat100": 8,
+  "fiber100": 1,
+  "portions": [
+   {
+    "unit": "bati",
+    "grams": 100,
+    "label_en": "bati",
+    "label_bn": "বাটি"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "soya_cooked",
+  "name_en": "Soya chunks (cooked)",
+  "name_bn": "সয়া চাংক (রান্না)",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 140,
+  "protein100": 20,
+  "carbs100": 8,
+  "fat100": 2,
+  "fiber100": 4,
+  "portions": [
+   {
+    "unit": "bati",
+    "grams": 150,
+    "label_en": "bati",
+    "label_bn": "বাটি"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "tandoori",
+  "name_en": "Tandoori chicken leg",
+  "name_bn": "তান্দুরি চিকেন",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 145,
+  "protein100": 20,
+  "carbs100": 2,
+  "fat100": 6,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 150,
+    "label_en": "piece",
+    "label_bn": "পিস"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "tehari",
+  "name_en": "Tehari (chicken)",
+  "name_bn": "তেহারি",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 180,
+  "protein100": 8,
+  "carbs100": 20,
+  "fat100": 7,
+  "fiber100": 1,
+  "portions": [
+   {
+    "unit": "plate",
+    "grams": 300,
+    "label_en": "plate",
+    "label_bn": "প্লেট"
+   },
+   {
+    "unit": "packet",
+    "grams": 300,
+    "label_en": "packet",
+    "label_bn": "প্যাকেট"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "veg_bhaji",
+  "name_en": "Mixed vegetable bhaji",
+  "name_bn": "সবজি ভাজি",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 80,
+  "protein100": 2,
+  "carbs100": 10,
+  "fat100": 3,
+  "fiber100": 2,
+  "portions": [
+   {
+    "unit": "bati",
+    "grams": 150,
+    "label_en": "bati",
+    "label_bn": "বাটি"
+   }
+  ],
+  "source": "estimate"
+ },
+ {
+  "id": "whey",
+  "name_en": "Whey protein (1 scoop)",
+  "name_bn": "হোয়ে প্রোটিন",
+  "category": "cooked",
+  "aliases": [],
+  "kcal100": 400,
+  "protein100": 80,
+  "carbs100": 6,
+  "fat100": 4,
+  "fiber100": 0,
+  "portions": [
+   {
+    "unit": "piece",
+    "grams": 30,
+    "label_en": "scoop",
+    "label_bn": "স্কুপ"
+   }
+  ],
+  "source": "estimate"
+ }
+]
