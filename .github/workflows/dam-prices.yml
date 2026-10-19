@@ -1,0 +1,35 @@
+name: DAM daily prices
+
+on:
+  schedule:
+    # 07:00 UTC = 13:00 Dhaka, after the morning market update
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install requests beautifulsoup4
+
+      - name: Scrape DAM prices
+        run: python .github/scripts/scrape_dam_prices.py
+
+      - name: Commit updated prices
+        # Only commits when the scrape actually wrote a new file.
+        run: |
+          git config user.name "caloriemeter-bot"
+          git config user.email "caloriemeter-bot@users.noreply.github.com"
+          git add data/prices.json
+          git diff --cached --quiet || git commit -m "chore: daily DAM price update"
+          git push
