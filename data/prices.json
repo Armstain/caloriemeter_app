@@ -1,0 +1,325 @@
+{
+  "source": "dam.gov.bd",
+  "report_date": "18-10-2026",
+  "scraped_at": "2026-10-19",
+  "note_bn": "ঢাকা মহানগরীর খুচরা ও পাইকারি বাজারদর",
+  "retail": {
+    "rice_coarse": {
+      "name_bn": "চাল স্বর্না-মোটা",
+      "unit": "kg",
+      "min": 50.0,
+      "max": 52.0,
+      "mid": 51.0
+    },
+    "rice_medium": {
+      "name_bn": "পাজাম, ব্রি ধান ২৮, ব্রি ধান ২৯ - মাঝারি",
+      "unit": "kg",
+      "min": 55.0,
+      "max": 60.0,
+      "mid": 57.5
+    },
+    "rice_fine": {
+      "name_bn": "জিরাশাইল-শম্পা কাটারি (সরু)",
+      "unit": "kg",
+      "min": 65.0,
+      "max": 95.0,
+      "mid": 80.0
+    },
+    "rice_aromatic": {
+      "name_bn": "ব্রি ধান ৩৪ - সুগন্ধী",
+      "unit": "kg",
+      "min": 120.0,
+      "max": 200.0,
+      "mid": 160.0
+    },
+    "lentil_coarse": {
+      "name_bn": "মসুর - মোটা",
+      "unit": "kg",
+      "min": 90.0,
+      "max": 100.0,
+      "mid": 95.0
+    },
+    "mung_coarse": {
+      "name_bn": "মুগ -মোটা",
+      "unit": "kg",
+      "min": 138.0,
+      "max": 140.0,
+      "mid": 139.0
+    },
+    "chickpea": {
+      "name_bn": "ছোলা",
+      "unit": "kg",
+      "min": 105.0,
+      "max": 115.0,
+      "mid": 110.0
+    },
+    "soybean_oil_loose": {
+      "name_bn": "সয়াবিন-খোলা",
+      "unit": "litre",
+      "min": 185.0,
+      "max": 189.0,
+      "mid": 187.0
+    },
+    "palm_oil_loose": {
+      "name_bn": "পামওয়েল - খোলা",
+      "unit": "litre",
+      "min": 167.0,
+      "max": 171.0,
+      "mid": 169.0
+    },
+    "soybean_oil_bottled": {
+      "name_bn": "সয়াবিন - ১ লিটার বোতল",
+      "unit": "litre",
+      "min": 204.0,
+      "max": 204.0,
+      "mid": 204.0
+    },
+    "sugar": {
+      "name_bn": "চিনি - আমদানীকৃত(সাদা-খোলা)",
+      "unit": "kg",
+      "min": 108.0,
+      "max": 110.0,
+      "mid": 109.0
+    },
+    "onion_local": {
+      "name_bn": "পেঁয়াজ - দেশী",
+      "unit": "kg",
+      "min": 50.0,
+      "max": 60.0,
+      "mid": 55.0
+    },
+    "fish_rui": {
+      "name_bn": "মাছ - রুই(১.৫ কেজি হতে ৪ কেজি)",
+      "unit": "kg",
+      "min": 330.0,
+      "max": 450.0,
+      "mid": 390.0
+    },
+    "fish_katla": {
+      "name_bn": "মাছ - কাতল(১.৫ কেজি হতে ৪ কেজি)",
+      "unit": "kg",
+      "min": 320.0,
+      "max": 450.0,
+      "mid": 385.0
+    },
+    "fish_pangas": {
+      "name_bn": "মাছ - পাঙ্গাস(চাষের)",
+      "unit": "kg",
+      "min": 180.0,
+      "max": 250.0,
+      "mid": 215.0
+    },
+    "fish_tilapia": {
+      "name_bn": "মাছ - তেলাপিয়া(চাষের)",
+      "unit": "kg",
+      "min": 180.0,
+      "max": 250.0,
+      "mid": 215.0
+    },
+    "chicken_broiler": {
+      "name_bn": "মোরগ/মুরগী - ব্রয়লার",
+      "unit": "kg",
+      "min": 175.0,
+      "max": 190.0,
+      "mid": 182.5
+    },
+    "chicken_sonali": {
+      "name_bn": "মোরগ/মুরগী - কক/সোনালী",
+      "unit": "kg",
+      "min": 300.0,
+      "max": 350.0,
+      "mid": 325.0
+    },
+    "beef": {
+      "name_bn": "মাংস - গরু",
+      "unit": "kg",
+      "min": 780.0,
+      "max": 800.0,
+      "mid": 790.0
+    },
+    "mutton_goat": {
+      "name_bn": "মাংস - ছাগল",
+      "unit": "kg",
+      "min": 1100.0,
+      "max": 1250.0,
+      "mid": 1175.0
+    },
+    "egg_farm": {
+      "name_bn": "ডিম - ফার্ম সাদা/লাল",
+      "unit": "piece",
+      "min": 11.25,
+      "max": 12.5,
+      "mid": 11.88
+    },
+    "banana_sagor": {
+      "name_bn": "ফল - কলা(সাগর)",
+      "unit": "4pcs",
+      "min": 40.0,
+      "max": 60.0,
+      "mid": 50.0
+    }
+  },
+  "wholesale": {
+    "rice_coarse": {
+      "name_bn": "চাল স্বর্না-মোটা",
+      "unit": "kg",
+      "min": 42.0,
+      "max": 45.0,
+      "mid": 43.5
+    },
+    "rice_medium": {
+      "name_bn": "পাজাম, ব্রি ধান ২৮, ব্রি ধান ২৯ - মাঝারি",
+      "unit": "kg",
+      "min": 49.0,
+      "max": 53.0,
+      "mid": 51.0
+    },
+    "rice_fine": {
+      "name_bn": "জিরাশাইল-শম্পা কাটারি (সরু)",
+      "unit": "kg",
+      "min": 58.0,
+      "max": 86.0,
+      "mid": 72.0
+    },
+    "rice_aromatic": {
+      "name_bn": "ব্রি ধান ৩৪ - সুগন্ধী",
+      "unit": "kg",
+      "min": 100.0,
+      "max": 180.0,
+      "mid": 140.0
+    },
+    "flour_loose": {
+      "name_bn": "আটা-খোলা",
+      "unit": "kg",
+      "min": 41.5,
+      "max": 44.0,
+      "mid": 42.75
+    },
+    "lentil_coarse": {
+      "name_bn": "মসুর - মোটা",
+      "unit": "kg",
+      "min": 79.0,
+      "max": 81.0,
+      "mid": 80.0
+    },
+    "mung_coarse": {
+      "name_bn": "মুগ -মোটা",
+      "unit": "kg",
+      "min": 132.0,
+      "max": 135.0,
+      "mid": 133.5
+    },
+    "chickpea": {
+      "name_bn": "ছোলা",
+      "unit": "kg",
+      "min": 102.0,
+      "max": 107.0,
+      "mid": 104.5
+    },
+    "soybean_oil_loose": {
+      "name_bn": "সয়াবিন-খোলা",
+      "unit": "litre",
+      "min": 182.0,
+      "max": 183.0,
+      "mid": 182.5
+    },
+    "palm_oil_loose": {
+      "name_bn": "পামওয়েল - খোলা",
+      "unit": "litre",
+      "min": 162.0,
+      "max": 163.0,
+      "mid": 162.5
+    },
+    "soybean_oil_bottled": {
+      "name_bn": "সয়াবিন - ১ লিটার বোতল",
+      "unit": "litre",
+      "min": 200.0,
+      "max": 203.0,
+      "mid": 201.5
+    },
+    "sugar": {
+      "name_bn": "চিনি - আমদানীকৃত(সাদা-খোলা)",
+      "unit": "kg",
+      "min": 102.0,
+      "max": 102.2,
+      "mid": 102.1
+    },
+    "onion_local": {
+      "name_bn": "পেঁয়াজ - দেশী",
+      "unit": "kg",
+      "min": 32.0,
+      "max": 45.0,
+      "mid": 38.5
+    },
+    "fish_rui": {
+      "name_bn": "মাছ - রুই(১.৫ কেজি হতে ৪ কেজি)",
+      "unit": "kg",
+      "min": 270.0,
+      "max": 380.0,
+      "mid": 325.0
+    },
+    "fish_katla": {
+      "name_bn": "মাছ - কাতল(১.৫ কেজি হতে ৪ কেজি)",
+      "unit": "kg",
+      "min": 260.0,
+      "max": 370.0,
+      "mid": 315.0
+    },
+    "fish_pangas": {
+      "name_bn": "মাছ - পাঙ্গাস(চাষের)",
+      "unit": "kg",
+      "min": 120.0,
+      "max": 180.0,
+      "mid": 150.0
+    },
+    "fish_tilapia": {
+      "name_bn": "মাছ - তেলাপিয়া(চাষের)",
+      "unit": "kg",
+      "min": 130.0,
+      "max": 200.0,
+      "mid": 165.0
+    },
+    "chicken_broiler": {
+      "name_bn": "মোরগ/মুরগী - ব্রয়লার",
+      "unit": "kg",
+      "min": 154.0,
+      "max": 165.0,
+      "mid": 159.5
+    },
+    "chicken_sonali": {
+      "name_bn": "মোরগ/মুরগী - কক/সোনালী",
+      "unit": "kg",
+      "min": 280.0,
+      "max": 305.0,
+      "mid": 292.5
+    },
+    "beef": {
+      "name_bn": "মাংস - গরু",
+      "unit": "kg",
+      "min": 750.0,
+      "max": 760.0,
+      "mid": 755.0
+    },
+    "mutton_goat": {
+      "name_bn": "মাংস - ছাগল",
+      "unit": "kg",
+      "min": 1050.0,
+      "max": 1200.0,
+      "mid": 1125.0
+    },
+    "egg_farm": {
+      "name_bn": "ডিম - ফার্ম সাদা/লাল",
+      "unit": "piece",
+      "min": 10.4,
+      "max": 10.9,
+      "mid": 10.65
+    },
+    "banana_sagor": {
+      "name_bn": "ফল - কলা(সাগর)",
+      "unit": "4pcs",
+      "min": 30.0,
+      "max": 42.0,
+      "mid": 36.0
+    }
+  }
+}
