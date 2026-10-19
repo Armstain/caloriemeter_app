@@ -34,5 +34,6 @@ flutter:
   assets:
     - assets/l10n/en.json
     - assets/l10n/bn.json
-    - assets/food_db.json
+    - assets/food_db_a.json
+    - assets/food_db_b.json
     - assets/prices_fallback.json

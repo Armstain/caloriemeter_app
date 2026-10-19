@@ -12,10 +12,13 @@ class FoodDatabase {
   static FoodDatabase? _instance;
   static Future<FoodDatabase> load() async {
     if (_instance != null) return _instance!;
-    final raw = await rootBundle.loadString('assets/food_db.json');
-    final list = (json.decode(raw) as List)
-        .map((j) => DbFood.fromJson(Map<String, dynamic>.from(j as Map)))
-        .toList();
+    final list = <DbFood>[];
+    // Split into two asset files to stay under platform arg limits.
+    for (final asset in ['assets/food_db_a.json', 'assets/food_db_b.json']) {
+      final raw = await rootBundle.loadString(asset);
+      list.addAll((json.decode(raw) as List)
+          .map((j) => DbFood.fromJson(Map<String, dynamic>.from(j as Map))));
+    }
     _instance = FoodDatabase(list);
     return _instance!;
   }
