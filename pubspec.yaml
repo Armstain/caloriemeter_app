@@ -1,0 +1,38 @@
+name: caloriemeter
+description: Bangladesh-first calorie and protein tracker. Bilingual (English/Bangla), deep local food database, live market prices.
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+  http: ^1.2.2
+  camera: ^0.11.0
+  image: ^4.2.0
+  path_provider: ^2.1.4
+  path: ^1.9.0
+  sqflite: ^2.3.3
+  shared_preferences: ^2.2.3
+  flutter_secure_storage: ^9.2.2
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+  crypto: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/l10n/en.json
+    - assets/l10n/bn.json
+    - assets/food_db.json
+    - assets/prices_fallback.json
