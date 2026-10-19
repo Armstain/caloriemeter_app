@@ -19,6 +19,11 @@ class Settings {
   static const _proteinGoal = 'protein_goal';
   static const _ramadan = 'ramadan';
   static const _retentionDays = 'retention_days';
+  static const _mealReminders = 'meal_reminders';
+  static const _waterReminder = 'water_reminder';
+  static const _breakfastTime = 'breakfast_time';
+  static const _lunchTime = 'lunch_time';
+  static const _dinnerTime = 'dinner_time';
   static const _apiKeyKey = 'gemini_api_key';
 
   final SharedPreferences prefs;
@@ -67,6 +72,21 @@ class Settings {
 
   int get retentionDays => prefs.getInt(_retentionDays) ?? 30;
   Future<void> setRetentionDays(int v) => prefs.setInt(_retentionDays, v);
+
+  bool get mealReminders => prefs.getBool(_mealReminders) ?? false;
+  Future<void> setMealReminders(bool v) => prefs.setBool(_mealReminders, v);
+
+  bool get waterReminder => prefs.getBool(_waterReminder) ?? false;
+  Future<void> setWaterReminder(bool v) => prefs.setBool(_waterReminder, v);
+
+  String get breakfastTime => prefs.getString(_breakfastTime) ?? '08:00';
+  Future<void> setBreakfastTime(String v) => prefs.setString(_breakfastTime, v);
+
+  String get lunchTime => prefs.getString(_lunchTime) ?? '13:00';
+  Future<void> setLunchTime(String v) => prefs.setString(_lunchTime, v);
+
+  String get dinnerTime => prefs.getString(_dinnerTime) ?? '20:00';
+  Future<void> setDinnerTime(String v) => prefs.setString(_dinnerTime, v);
 
   Future<String?> getApiKey() => secure.read(key: _apiKeyKey);
   Future<void> setApiKey(String v) => secure.write(key: _apiKeyKey, value: v);

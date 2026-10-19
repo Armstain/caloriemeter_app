@@ -153,5 +153,26 @@
     "budgetTooLow": "Budget too low for any protein source. Raise it a little.",
     "log": "Log to diary",
     "logged": "Logged to diary"
+  },
+  "reminders": {
+    "title": "Reminders",
+    "meals": "Meal reminders",
+    "mealsDesc": "A daily nudge to log breakfast, lunch and dinner",
+    "water": "Water reminders",
+    "waterDesc": "Three gentle nudges through the day",
+    "breakfast": "Breakfast",
+    "lunch": "Lunch",
+    "dinner": "Dinner",
+    "logBreakfast": "Time to log breakfast",
+    "logLunch": "Time to log lunch",
+    "logDinner": "Time to log dinner",
+    "logBody": "A quick photo or search — takes 30 seconds.",
+    "drinkWater": "Drink some water",
+    "drinkWaterBody": "Log a glass in the diary."
+  },
+  "repeat": {
+    "yesterday": "Repeat yesterday",
+    "copied": "Copied to today",
+    "nothingToCopy": "Nothing logged yesterday"
   }
 }

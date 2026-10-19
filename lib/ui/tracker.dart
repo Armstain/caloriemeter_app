@@ -28,10 +28,17 @@ class _TrackerScreenState extends ConsumerState<TrackerScreen> {
   @override
   Widget build(BuildContext context) {
     final lang = Lang.of(context);
+    final isToday = _date == AppDb.todayKey();
     return Scaffold(
       appBar: AppBar(
         title: Text(lang.t('home.diary')),
         actions: [
+          if (isToday)
+            IconButton(
+              icon: const Icon(Icons.repeat),
+              tooltip: lang.t('repeat.yesterday'),
+              onPressed: _repeatYesterday,
+            ),
           IconButton(
             icon: const Icon(Icons.calendar_month),
             onPressed: () async {
@@ -95,6 +102,40 @@ class _TrackerScreenState extends ConsumerState<TrackerScreen> {
           Text(label, style: const TextStyle(fontSize: 12, color: Colors.grey)),
         ],
       );
+
+  Future<void> _repeatYesterday() async {
+    final lang = Lang.of(context);
+    final yKey =
+        AppDb.todayKey(DateTime.now().subtract(const Duration(days: 1)));
+    final entries = await AppDb.entriesForDay(yKey);
+    if (!mounted) return;
+    if (entries.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text(lang.t('repeat.nothingToCopy'))),
+      );
+      return;
+    }
+    final now = DateTime.now();
+    var i = 0;
+    for (final e in entries) {
+      await AppDb.saveEntry(FoodEntry(
+        id: 'e${now.millisecondsSinceEpoch}_${i++}',
+        timestamp: now,
+        date: _date,
+        mealType: e.mealType,
+        foods: e.foods,
+        totalCalories: e.totalCalories,
+        totalMacros: e.totalMacros,
+      ));
+    }
+    if (!mounted) return;
+    setState(() {});
+    ref.invalidate(todayEntriesProvider);
+    ref.invalidate(todayTotalsProvider);
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text('${lang.t('repeat.copied')} (${entries.length})')),
+    );
+  }
 }
 
 class _DiaryTile extends ConsumerWidget {

@@ -6,6 +6,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../core/lang.dart';
 import '../core/nutrition.dart';
 import '../data/app_db.dart';
+import '../services/reminders.dart';
 import '../services/settings.dart';
 import '../state/providers.dart';
 import 'fooddb_screen.dart';
@@ -77,6 +78,60 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
             value: settings.ramadan,
             onChanged: (v) async {
               await settings.setRamadan(v);
+              setState(() {});
+            },
+          ),
+          const SizedBox(height: 16),
+          _section(lang.t('reminders.title')),
+          SwitchListTile(
+            title: Text(lang.t('reminders.meals')),
+            subtitle: Text(lang.t('reminders.mealsDesc')),
+            value: settings.mealReminders,
+            onChanged: (v) async {
+              await settings.setMealReminders(v);
+              await Reminders.rescheduleFrom(settings, lang.strings);
+              setState(() {});
+            },
+          ),
+          if (settings.mealReminders) ...[
+            _timeTile(
+              context,
+              label: lang.t('reminders.breakfast'),
+              value: settings.breakfastTime,
+              onPicked: (v) async {
+                await settings.setBreakfastTime(v);
+                await Reminders.rescheduleFrom(settings, lang.strings);
+                setState(() {});
+              },
+            ),
+            _timeTile(
+              context,
+              label: lang.t('reminders.lunch'),
+              value: settings.lunchTime,
+              onPicked: (v) async {
+                await settings.setLunchTime(v);
+                await Reminders.rescheduleFrom(settings, lang.strings);
+                setState(() {});
+              },
+            ),
+            _timeTile(
+              context,
+              label: lang.t('reminders.dinner'),
+              value: settings.dinnerTime,
+              onPicked: (v) async {
+                await settings.setDinnerTime(v);
+                await Reminders.rescheduleFrom(settings, lang.strings);
+                setState(() {});
+              },
+            ),
+          ],
+          SwitchListTile(
+            title: Text(lang.t('reminders.water')),
+            subtitle: Text(lang.t('reminders.waterDesc')),
+            value: settings.waterReminder,
+            onChanged: (v) async {
+              await settings.setWaterReminder(v);
+              await Reminders.rescheduleFrom(settings, lang.strings);
               setState(() {});
             },
           ),
@@ -155,6 +210,27 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
       keyboardType: TextInputType.number,
       decoration: InputDecoration(labelText: label, border: const OutlineInputBorder()),
       onSubmitted: onSubmit,
+    );
+  }
+
+  Widget _timeTile(BuildContext context,
+      {required String label,
+      required String value,
+      required Future<void> Function(String) onPicked}) {
+    return ListTile(
+      title: Text(label),
+      trailing: Text(value, style: const TextStyle(fontWeight: FontWeight.bold)),
+      onTap: () async {
+        final parts = value.split(':');
+        final initial = TimeOfDay(
+            hour: int.tryParse(parts[0]) ?? 8, minute: int.tryParse(parts[1]) ?? 0);
+        final picked = await showTimePicker(context: context, initialTime: initial);
+        if (picked != null) {
+          final hhmm =
+              '${picked.hour.toString().padLeft(2, '0')}:${picked.minute.toString().padLeft(2, '0')}';
+          await onPicked(hhmm);
+        }
+      },
     );
   }
 }
