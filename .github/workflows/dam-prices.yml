@@ -23,7 +23,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Scrape DAM prices
-        run: python .github/scripts/scrape_dam_prices.py
+        run: python scripts/scrape_dam_prices.py
 
       - name: Commit updated prices
         # Only commits when the scrape actually wrote a new file.
